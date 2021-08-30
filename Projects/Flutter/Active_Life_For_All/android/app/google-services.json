@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1053042534482",
+    "firebase_url": "https://alfa-6547e.firebaseio.com",
+    "project_id": "alfa-6547e",
+    "storage_bucket": "alfa-6547e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053042534482:android:f353ac53399acaedc4578b",
+        "android_client_info": {
+          "package_name": "com.activelifeforall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1053042534482-q1vt7s40cq1h4q14vji3rnfap4vu5rpt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRRAR3Oj-QJDLqWoUzGPTg4JeCv-1bq_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1053042534482-q1vt7s40cq1h4q14vji3rnfap4vu5rpt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1053042534482-t5stf8g6og7i768pdinsrr1t9qagvv69.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.activelifeforall"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="76f0218e-eec3-492a-9e55-91bff5e14ca4" name="Default Changelist" comment="updated">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screen/DailyLife.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screen/DailyLife.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screen/IntroScreen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screen/IntroScreen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screen/TabbarScreens/TrackTab.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screen/TabbarScreens/TrackTab.dart" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1nCIm0ig1cLWdM4AmQJH1pMjsHD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="flutter.settings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="76f0218e-eec3-492a-9e55-91bff5e14ca4" name="Default Changelist" comment="" />
+      <created>1610887801205</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610887801205</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="938" height="197" key="GridCell.Tab.0.bottom" timestamp="1626719849042">
+      <screen x="0" y="25" width="1440" height="790" />
+    </state>
+    <state width="938" height="197" key="GridCell.Tab.0.bottom/0.25.1440.790@0.25.1440.790" timestamp="1626719849042" />
+    <state width="938" height="197" key="GridCell.Tab.0.center" timestamp="1626719849040">
+      <screen x="0" y="25" width="1440" height="790" />
+    </state>
+    <state width="938" height="197" key="GridCell.Tab.0.center/0.25.1440.790@0.25.1440.790" timestamp="1626719849040" />
+    <state width="938" height="197" key="GridCell.Tab.0.left" timestamp="1626719849039">
+      <screen x="0" y="25" width="1440" height="790" />
+    </state>
+    <state width="938" height="197" key="GridCell.Tab.0.left/0.25.1440.790@0.25.1440.790" timestamp="1626719849039" />
+    <state width="938" height="197" key="GridCell.Tab.0.right" timestamp="1626719849041">
+      <screen x="0" y="25" width="1440" height="790" />
+    </state>
+    <state width="938" height="197" key="GridCell.Tab.0.right/0.25.1440.790@0.25.1440.790" timestamp="1626719849041" />
+    <state x="315" y="136" width="615" height="490" key="find.popup" timestamp="1627099806363">
+      <screen x="0" y="25" width="1440" height="790" />
+    </state>
+    <state x="315" y="136" width="615" height="490" key="find.popup/0.25.1440.790@0.25.1440.790" timestamp="1627099806363" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint suspend="THREAD" type="dart-exception" />
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
